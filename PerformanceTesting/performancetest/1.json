@@ -1,0 +1,15 @@
+{
+
+
+  "channelName": "email",
+  "emailorMobile": "vshiv1479@gmail.com",
+  "noofattempts": 0,
+  "order_id": 0,
+  "otp": 123456,
+  "otpExpiredTime": 0,
+  "otpRequestedTime": 0,
+  "sessions": 0,
+  "verified": true
+
+
+}
